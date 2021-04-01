@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm KornRT2018!
+### Hi, I'm KornRT2018!
 
 <!--
 **kornrt2018/kornrt2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
