@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 
-**Please subscribe to my channel by clicking [here](https://www.youtube.com/channel/UCwqLpOccBGW-s8DMXUR1vSg).**
+**Please subscribe to my channel by clicking [here](https://www.youtube.com/channel/kornrt2018).**
