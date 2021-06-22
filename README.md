@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **creating good malwares**.
+- 🔭 I’m currently working on **creating good *prank* malwares**.
 - 🌱 I’m currently learning **how to create batch files**
 - 👯 I’m looking to collaborate on **malware repos, like [this one](https://www.github.com/endermanch/malwaredatabase)**
 - 🤔 I’m looking for help with **my malware creations**
