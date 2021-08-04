@@ -7,15 +7,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **creating good *prank* malwares**.
-- 🌱 I’m currently learning **how to create batch files**
-- 👯 I’m looking to collaborate on **malware repos, like [this one](https://www.github.com/endermanch/malwaredatabase)**
-- 🤔 I’m looking for help with **my malware creations**
-- 📫 How to reach me: **email me at : kornrt2018.studio@gmail.com**
-- 😄 What I would like you to call me: **He/Him**
-- ⚡ Fun fact: **Most of my malwares end with BSoDs!**
+I'm currently busy, and I don't have much time to edit my profile.
+Here's some useful links for now :
 
 &nbsp;
-&nbsp;
 
-**Please subscribe to my channel by clicking [here](https://www.youtube.com/channel/kornrt2018).**
+**Please subscribe to my channel by clicking [here](https://www.youtube.com/kornrt2018?sub_confirmation=1).**
+**FOLLOW ME ON TWITTER : [click me](https://twitter.com/kornrt2018_yt)**
