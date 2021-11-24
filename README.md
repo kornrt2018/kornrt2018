@@ -1,1 +1,1 @@
-## [Click here, I'm more active on this account](https://github.com/larrystudios)
+## [I'm more active here](https://github.com/larrystudios)
