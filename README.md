@@ -1,9 +1,12 @@
+# Hi there!
+I'm **Korn**;
+- Longtime Project Lead at BirdOne
+- Innovations Director + Lead Software Engineer at Circle Labs
+- Studying at Bangkok Christian College
+- A boy, chasing his dreams
+
 # I'm working on...
 Something *secret* 🤫
-
-# Check out my pet worm!
-**[Server 1](https://arq091.github.io/wiggly-worm)**<br>
-**[Server 2](https://kornls.github.io/worm)**
 
 # Statistics
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kornbirdone&count_private=true&theme=dark)
